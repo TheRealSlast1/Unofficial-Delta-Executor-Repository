@@ -1,0 +1,13 @@
+{
+  "$schema": "https://github.com/SideStore/sidestore-source-types/raw/main/schema.json",
+  "name": "My Custom Delta Source",
+  "identifier": "com.slast1k.deltasource",
+  "apps": [
+    {
+      "name": "Delta Executor",
+      "bundleIdentifier": "com.delta.executor",
+      "developerName": "Delta Team",
+      "version": "1.0.0",
+      "versionDate": "2026-05-23T00:00:00Z",
+      "versionDescription": "Latest Delta release",
+      "downloadURL": "
